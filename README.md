@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+## Introduction
 
 **uwitpe/uwitpe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,3 +16,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - ❤️❤️❤️❤️❤️❤️❤️❤️
 
+## Projects
+- [geemap](https://geemap.org/): A python package for interactive mapping with Google Earth Engine, ipyleaflet, and ipywidgets.
+- [leafmap](https://leafmap.org/): A python package for interactive mapping with folium, ipyleaflet, and ipywidgets. 
+
+
+# Demos
+
+This is a funny face!
+
+![gif](https://i.gifer.com/embedded/download/4j.gif)
