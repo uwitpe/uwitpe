@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 
 # Demos
 
-This is a funny face!
+Check Dr. Qiusheng Wu [YouTube channel](https://youtube.com/@giswqs)
 
-![gif](https://i.gifer.com/embedded/download/4j.gif)
+![gif](https://wetlands.io/file/images/youtube.png)
